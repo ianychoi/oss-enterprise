@@ -16,7 +16,21 @@ Before you open source your project, consider the effort required to maintain it
 
 ## FAQ
 
+#### The purpose of this repository
+
+This repository describes generic open source guide for the people who would like to start open source projects following with our company guidance.
+
 #### Who owns the code I contribute to open source projects?
+
+Target open source license would be dependent on the purpose of your open sources - it can be MIT license or dual licenses. Please reach to open source policy team (contact: [TBD](#)).
+
+#### First steps to getting started open sourcing a project
+
+Reading all the materials here should be your first steps.
+
+### How does this repository relate to other projects and business goals?
+
+Feel free to discuss to understand more with open source policy team (contact: [TBD](#)).
 
 ## License
 
